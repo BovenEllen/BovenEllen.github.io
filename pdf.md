@@ -1,1 +1,2 @@
-(https://github.com/BovenEllen/BovenEllen.github.io/blob/881b86bd1e2332f20719f583c7428affb1ca5ed4/CV.pdf)
+<iframe src="https://github.com/yourusername/repositoryname/raw/branchname/path/to/your/file.pdf" width="100%" height="600px">
+</iframe>
