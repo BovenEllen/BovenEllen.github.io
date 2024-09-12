@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://github.com/BovenEllen/BovenEllen.github.io/blob/881b86bd1e2332f20719f583c7428affb1ca5ed4/CV.pdf", title: "CV"}#, icon: home}
+  - {url: "pdf.md", title: "CV"}#, icon: home}
   - {file: "README.md", title: "About me"}#, icon: address-card}
   - {file: "index.md", title: "Science"}#, icon: address-card}
   - {file: "index.html", title: "Life"}
