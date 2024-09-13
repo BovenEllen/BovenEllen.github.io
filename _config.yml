@@ -18,7 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  - {file: "https://github.com/BovenEllen/BovenEllen.github.io/blob/fe612acd19041043a3a25aae1877f2c3ec8d66bb/_pdfs/CV.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:e.boven@erasmusmc.nl"}
