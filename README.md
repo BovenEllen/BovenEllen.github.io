@@ -1,6 +1,5 @@
 ---
-title: "Ellen Boven"
+title: "About"
+permalink: "/about/"
 layout: page
 ---
-
-I am a scientist with interest in Neuroscience and AI
