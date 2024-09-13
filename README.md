@@ -4,4 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-I am a neuroscientists interested in AI
+"I am a neuroscientists interested in AI"
