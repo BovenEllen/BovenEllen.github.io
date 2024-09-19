@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://github.com/BovenEllen/BovenEllen.github.io/blob/31c08da3c228b282193983a7ec3818cfd7bddcd1/DSC06685.JPG)
+![penguins](/assets/DSC06687.JPG)
 
 
 ## MathJax
