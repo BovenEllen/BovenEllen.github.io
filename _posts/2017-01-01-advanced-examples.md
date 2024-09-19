@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Travel"
 mathjax: true
 layout: post
 categories: media
@@ -56,8 +56,8 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 [Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
-## Embedded content
+## Conferences
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+{% include embed.html url="https://youtu.be/ei4wKOdhy_w" %}
