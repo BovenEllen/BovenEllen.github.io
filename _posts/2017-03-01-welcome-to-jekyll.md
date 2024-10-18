@@ -1,25 +1,12 @@
 ---
-title: "Welcome to Jekyll"
+title: "About me"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi, I am Ellen. I am a postdoctoral scientist at the Erasmus Medical Centre (MC) in Rotterdam, the Netherlands. Before joining the Erasmus MC I obtained my PhD funded by a Wellcome Trust studentship, with Prof. Richard Apps and Dr. Rui Ponte Costa [neuralml], working at the intersection of experimental and computational neuroscience. After my PhD I was awarded a Wellcome Trust transition fellowship that enabled my transition from doctoral to postdoctoral researcher. I also hold a bachelor's degree in Biology and a master's degree in Neurosciences from the university of Ghent and Antwerp, respectively. 
+
+My current research focuses on understanding how different areas in the brain work together during movement. Additionally, I am excited about integrating concepts from neuroscience and artificial intelligence.
+
+[neuralml]: https://neuralml.github.io/
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
