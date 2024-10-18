@@ -3,10 +3,10 @@ title: "About me"
 layout: post
 ---
 
-Hi, I am Ellen. I am a postdoctoral scientist at the Erasmus Medical Centre (MC) in Rotterdam, the Netherlands. Before joining the Erasmus MC I obtained my PhD funded by a Wellcome Trust studentship, with Prof. Richard Apps and Dr. Rui Ponte Costa [neuralml], working at the intersection of experimental and computational neuroscience. After my PhD I was awarded a Wellcome Trust transition fellowship that enabled my transition from doctoral to postdoctoral researcher. I also hold a bachelor's degree in Biology and a master's degree in Neurosciences from the university of Ghent and Antwerp, respectively. 
+Hi, I am Ellen. I am a postdoctoral scientist at the Erasmus Medical Centre (MC) in Rotterdam, the Netherlands. Before joining the Erasmus MC I obtained my PhD funded by a Wellcome Trust studentship, with Prof. Richard Apps and [Dr. Rui Ponte Costa], working at the intersection of experimental and computational neuroscience. After my PhD I was awarded a Wellcome Trust transition fellowship that enabled my transition from doctoral to postdoctoral researcher. I also hold a bachelor's degree in Biology and a master's degree in Neurosciences from the university of Ghent and Antwerp, respectively. 
 
 My current research focuses on understanding how different areas in the brain work together during movement. Additionally, I am excited about integrating concepts from neuroscience and artificial intelligence.
 
-[neuralml]: https://neuralml.github.io/
+[Dr. Rui Ponte Costa]: https://neuralml.github.io/
 
 
